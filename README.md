@@ -14,7 +14,6 @@ I am a **Software Development Apprentice** based in Germany. I consider myself a
 ### 🎨 A bit about me
 - 💻 **Tech Enthusiast:** I closely follow the latest innovations and trends in the tech world.
 - 📚 **Reading:** Enjoy diving into technical literature to expand my knowledge.
-- 🎮 **Gaming & Anime:** Huge fan of PC games and watching anime in my free time.
 
 ---
 
